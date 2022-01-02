@@ -121,7 +121,7 @@ p{
 .black{
   padding: 20px;
   background-color: black;
-  text-align: left;
+  text-align: center;
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
